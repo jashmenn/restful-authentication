@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |gem|
-  gem.name = %q{restful-authentication}
+  gem.name = %q{jashmenn-restful-authentication}
   gem.version = "2.0.0.beta1"
   gem.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if gem.respond_to? :required_rubygems_version=
   gem.date = %q{2010-04-22}
